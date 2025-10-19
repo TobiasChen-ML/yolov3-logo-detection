@@ -1,0 +1,6 @@
+# YOLO dataset config for logo detection
+path: data  # dataset root dir
+train: images/train
+val: images/val
+nc: 1
+names: ["logo"]
